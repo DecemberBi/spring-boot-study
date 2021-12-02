@@ -11,6 +11,7 @@
     <modules>
         <module>lesson1</module>
         <module>lesson2</module>
+        <module>lesson3</module>
     </modules>
 
     <properties>
@@ -37,6 +38,11 @@
             <version>1.9.7</version>
         </dependency>
 
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>2.6</version>
+        </dependency>
     </dependencies>
 
 </project>
