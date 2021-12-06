@@ -21,6 +21,8 @@
         <module>lesson3</module>
         <module>lesson4</module>
         <module>lesson5</module>
+        <module>spring-boot-starter-lesson6</module>
+        <module>spring-boot-use-starter-lesson6</module>
     </modules>
 
     <properties>
